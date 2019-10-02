@@ -55,7 +55,6 @@ public class Name {
     }
 
     public String getSurnameParent2() {
-        /* return parent2's last name */
     	return surnameParent2;
     }
 
